@@ -1,0 +1,102 @@
+2020-04-24 20:32:38:413 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - Execution Started 
+2020-04-24 20:32:38:414 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - Read Start Common Error
+2020-04-24 20:32:38:446 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 301,Error Description: Data already exist for key External error. AUC Subscriber already exists=true Error FLAGtrue
+2020-04-24 20:32:38:446 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 1,Error Description: IMSI already defined=true Error FLAGtrue
+2020-04-24 20:32:38:447 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 14001, Error Message: CONSTRAINT VIOLATION=true Error FLAGtrue
+2020-04-24 20:32:38:447 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 13002, Error Message: SERVICE ALREADY DEFINED=true Error FLAGtrue
+2020-04-24 20:32:38:447 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 6,Error Description: SUBSCRIBER AUTHENTICATION DATA NOT FOUND=true Error FLAGtrue
+2020-04-24 20:32:38:448 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 13003, Error Message: IDENTITY MISMATCH=true Error FLAGtrue
+2020-04-24 20:32:38:449 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 14,Error Description: MSISDN is not defined=true Error FLAGtrue
+2020-04-24 20:32:38:449 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 13,Error Description: IMSI is not defined=true Error FLAGtrue
+2020-04-24 20:32:38:449 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 13001, Error Message: SERVICE NOT DEFINED=true Error FLAGtrue
+2020-04-24 20:32:38:449 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 10534,Error Description: Centralized user database not reachable=true Error FLAGtrue
+2020-04-24 20:32:38:450 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 2,Error Description: MSISDN already defined External error. MSISDN ALREADY DEFINED=true Error FLAGtrue
+2020-04-24 20:32:38:450 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 30Error Description: Data already exist for key External error. AUC Subscriber already exists=true Error FLAGtrue
+2020-04-24 20:32:38:450 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - Invalid IMSI or IMSI is not in STC range=true Error FLAGtrue
+2020-04-24 20:32:38:451 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - Task execution failed=true Error FLAGtrue
+2020-04-24 20:32:38:451 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - Storage Medium is not assignable. May be it is already assigned=true Error FLAGtrue
+2020-04-24 20:32:38:451 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - Directory Number is not assignable. May be it is already assigned=true Error FLAGtrue
+2020-04-24 20:32:38:451 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - ecms1:General error: Connection failure=true Error FLAGtrue
+2020-04-24 20:32:38:451 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: No active contract found=true Error FLAGtrue
+2020-04-24 20:32:38:452 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Timeout in macro=true Error FLAGtrue
+2020-04-24 20:32:38:453 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Internal error: Charging failed: Credit not sufficient=true Error FLAGtrue
+2020-04-24 20:32:38:454 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - sdpcrm:General error: (-72))=true Error FLAGtrue
+2020-04-24 20:32:38:454 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - sdpcrm:General error: (-12))=true Error FLAGtrue
+2020-04-24 20:32:38:455 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - sdpcrm:General error: Initial (-1))=true Error FLAGtrue
+2020-04-24 20:32:38:455 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - sdpcrm:General error: Internal Error: FO failed (-1)=true Error FLAGtrue
+2020-04-24 20:32:38:456 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Data out of bounds=true Error FLAGtrue
+2020-04-24 20:32:38:456 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Subscriber Not Found=true Error FLAGtrue
+2020-04-24 20:32:38:456 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: (22063=false Error FLAGfalse
+2020-04-24 20:32:38:456 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: UCIP internal system error=false Error FLAGfalse
+2020-04-24 20:32:38:462 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - Unexpected parameter format/value=false Error FLAGfalse
+2020-04-24 20:32:38:472 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - Missing mandatory Parameter from Upstream:Transaction not found, check ORDERTYPE,ORDERSUBTYPE,ACTIONCODE,REASON=false Error FLAGfalse
+2020-04-24 20:32:38:477 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: (22004=false Error FLAGfalse
+2020-04-24 20:32:38:478 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: (22019=false Error FLAGfalse
+2020-04-24 20:32:38:480 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: (22048=false Error FLAGfalse
+2020-04-24 20:32:38:480 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: (22232=false Error FLAGfalse
+2020-04-24 20:32:38:480 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: (300003307=false Error FLAGfalse
+2020-04-24 20:32:38:481 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: (22022=false Error FLAGfalse
+2020-04-24 20:32:38:481 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: (22002=false Error FLAGfalse
+2020-04-24 20:32:38:481 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: (22063=false Error FLAGfalse
+2020-04-24 20:32:38:481 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: (22025=false Error FLAGfalse
+2020-04-24 20:32:38:481 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: (22013=false Error FLAGfalse
+2020-04-24 20:32:38:481 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: (22006=false Error FLAGfalse
+2020-04-24 20:32:38:481 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: User Not Eligible ServiceID:=false Error FLAGfalse
+2020-04-24 20:32:38:482 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Invalid PACKAGE_UID=false Error FLAGfalse
+2020-04-24 20:32:38:482 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 1300 Error Message: SERVICE NOT DEFINED,Error Description: EPS service is not defined=false Error FLAGfalse
+2020-04-24 20:32:38:482 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 13004, Error Message: ASSOCIATION ALREADY DEFINED=false Error FLAGfalse
+2020-04-24 20:32:38:482 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 63,Error Description: Changeover already initiated=false Error FLAGfalse
+2020-04-24 20:32:38:482 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 1095,Error Description: COMMUNICATION ERROR WHILE INTERACTING WITH A DATA REPOSITORY=false Error FLAGfalse
+2020-04-24 20:32:38:482 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 3005,Error Description: Invalid=false Error FLAGfalse
+2020-04-24 20:32:38:483 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 302,Error Description: Subscriber does not exist=false Error FLAGfalse
+2020-04-24 20:32:38:483 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 27,Error Description: Operation not allowed due to interaction=false Error FLAGfalse
+2020-04-24 20:32:38:483 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 1400Error Description: CONSTRAINT VIOLATION External error=false Error FLAGfalse
+2020-04-24 20:32:38:483 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 1400 Error Message: CONSTRAINT VIOLATION=false Error FLAGfalse
+2020-04-24 20:32:38:483 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 14001,Error Description: CONSTRAINT VIOLATION=false Error FLAGfalse
+2020-04-24 20:32:38:483 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 30Error Description: Subscriber does not exist=false Error FLAGfalse
+2020-04-24 20:32:38:483 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 1002,Error Description: External error. Failed to delete HLR Subscription=false Error FLAGfalse
+2020-04-24 20:32:38:483 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 1002,Error Description: External error. Partly executed: Failed to set MSIM subscription=false Error FLAGfalse
+2020-04-24 20:32:38:484 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 10216,Error Description: Subscriber PDP context already defined=false Error FLAGfalse
+2020-04-24 20:32:38:484 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: Error Description: IMSI already defined External error=false Error FLAGfalse
+2020-04-24 20:32:38:484 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: Error Description: MSISDN already defined External error=false Error FLAGfalse
+2020-04-24 20:32:38:484 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 1Error Description: IMSI is not defined=false Error FLAGfalse
+2020-04-24 20:32:38:486 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 12014,Error Description: Operation failed, rollback was unsuccessful=false Error FLAGfalse
+2020-04-24 20:32:38:486 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 12013, Error Message: OPERATION FAILED, ROLLBACK HAS BEEN PERFORMED SUCCESSFULLY=false Error FLAGfalse
+2020-04-24 20:32:38:487 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 12013,Error Description: Operation failed, rollback has been performed successfully=false Error FLAGfalse
+2020-04-24 20:32:38:487 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Invalid SUPP_CODES=false Error FLAGfalse
+2020-04-24 20:32:38:487 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 1002,Error Description: External error=false Error FLAGfalse
+2020-04-24 20:32:38:487 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 100Error Description: External error=false Error FLAGfalse
+2020-04-24 20:32:38:487 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 110 Error Message: External error=false Error FLAGfalse
+2020-04-24 20:32:38:487 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 1300 Error Message: IDENTITY MISMATCH=false Error FLAGfalse
+2020-04-24 20:32:38:487 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 13005, Error Message: ASSOCIATION NOT DEFINED=false Error FLAGfalse
+2020-04-24 20:32:38:487 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 2002,Error Description: EXECUTION WAS CANCELLED=false Error FLAGfalse
+2020-04-24 20:32:38:487 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 200Error Description: EXECUTION WAS CANCELLED=false Error FLAGfalse
+2020-04-24 20:32:38:488 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 2002,Error Description: Failure during processing of the request=false Error FLAGfalse
+2020-04-24 20:32:38:488 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 1006, Error Message: Invalid parameter.,Error Description: MSISDN format error=false Error FLAGfalse
+2020-04-24 20:32:38:488 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 1Error Description: MSISDN is not defined=false Error FLAGfalse
+2020-04-24 20:32:38:488 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 2,Error Description: MSISDN already defined=false Error FLAGfalse
+2020-04-24 20:32:38:488 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 12003, Error Message: IDENTIFIER IN USE=false Error FLAGfalse
+2020-04-24 20:32:38:488 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 1006, Error Message: Invalid parameter.,Error Description: Invalid MO attribute=false Error FLAGfalse
+2020-04-24 20:32:38:489 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: query PDP_ID failed=false Error FLAGfalse
+2020-04-24 20:32:38:489 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Provisioning returns Error Code [14];CRE_SUB_DATA Unsuccessful=false Error FLAGfalse
+2020-04-24 20:32:38:489 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 3005=false Error FLAGfalse
+2020-04-24 20:32:38:489 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: CRE_SUB_DATA Unsuccessful=false Error FLAGfalse
+2020-04-24 20:32:38:490 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 3005,Error Description: The XML data is not valid=false Error FLAGfalse
+2020-04-24 20:32:38:490 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 200Error Description: Failure during processing of the request=false Error FLAGfalse
+2020-04-24 20:32:38:490 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - General error: Error Code: 1002,Error Description: External error. Partly executed: Failed to set MSIM subscription=false Error FLAGfalse
+2020-04-24 20:32:38:491 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - Read END Common Error
+2020-04-24 20:32:38:491 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - Read All Files Start
+2020-04-24 20:32:38:506 +0300 [main] DEBUG com.github.sachin.SimpleCsv2DbInserter - File Path--C:\Users\sgoyal\Documents\FailureReport\ilgsm10.csv
+2020-04-24 20:32:38:585 +0300 [main] DEBUG com.github.sachin.SimpleCsv2DbInserter - File Path--C:\Users\sgoyal\Documents\FailureReport\ilgsm12.csv
+2020-04-24 20:32:38:597 +0300 [main] DEBUG com.github.sachin.SimpleCsv2DbInserter - File Path--C:\Users\sgoyal\Documents\FailureReport\ilgsm14.csv
+2020-04-24 20:32:38:602 +0300 [main] DEBUG com.github.sachin.SimpleCsv2DbInserter - File Path--C:\Users\sgoyal\Documents\FailureReport\ilgsm16.csv
+2020-04-24 20:32:38:610 +0300 [main] DEBUG com.github.sachin.SimpleCsv2DbInserter - File Path--C:\Users\sgoyal\Documents\FailureReport\ilgsm18.csv
+2020-04-24 20:32:38:615 +0300 [main] DEBUG com.github.sachin.SimpleCsv2DbInserter - File Path--C:\Users\sgoyal\Documents\FailureReport\ilgsm21.csv
+2020-04-24 20:32:38:648 +0300 [main] DEBUG com.github.sachin.SimpleCsv2DbInserter - File Path--C:\Users\sgoyal\Documents\FailureReport\ilgsm23.csv
+2020-04-24 20:32:38:649 +0300 [main] DEBUG com.github.sachin.SimpleCsv2DbInserter - File Path--C:\Users\sgoyal\Documents\FailureReport\ilgsm25.csv
+2020-04-24 20:32:38:651 +0300 [main] DEBUG com.github.sachin.SimpleCsv2DbInserter - File Path--C:\Users\sgoyal\Documents\FailureReport\ilgsm27.csv
+2020-04-24 20:32:38:654 +0300 [main] DEBUG com.github.sachin.SimpleCsv2DbInserter - File Path--C:\Users\sgoyal\Documents\FailureReport\ilgsm29.csv
+2020-04-24 20:32:38:655 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - Read All Files END
+2020-04-24 20:32:38:656 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - DB INSERTION START
+2020-04-24 20:32:39:653 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - DB INSERTION END
+2020-04-24 20:32:39:656 +0300 [main] INFO com.github.sachin.SimpleCsv2DbInserter - Execution END 
